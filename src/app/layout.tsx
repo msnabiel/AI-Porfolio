@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     title: "Nabiel – VITC Portfolio",
     description:
       "hi! i’m Nabiel — an Electronics student at Vellore Institute of Technology. this is my personal portfolio where i share the projects i’ve built, the companies i’ve interned with, and what i’ve been learning along the way.",
-    url: "https://nabiel.vercel.app",
+    url: "https://nabiel.vercel.app/",
     siteName: "Nabiel Portfolio",
     type: "website",
     locale: "en_US",
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
       "Explore projects and professional experience from Nabiel, software engineer and VIT student.",
     creator: "@nabiel",
   },
-  metadataBase: new URL("https://nabiel.vercel.app")
+  metadataBase: new URL("https://nabiel.vercel.app/")
 };
 
 export default function RootLayout({
