@@ -93,7 +93,7 @@ const Head = () => {
               <img
                 src="waterloo.png"
                 className="w-4 h-4 rounded-lg"
-                alt="uwaterloo"
+                alt="VIT"
               />
               <span className="text-yellow-400 font-bold">VITC</span>
               &mdash; class of &apos;26
@@ -104,19 +104,18 @@ const Head = () => {
       {/* mobile version */}
       <div className="sm:hidden hover:border-hubspot border-2 border-accent transition hover:duration-300 ease-in-out bg-dark p-3 rounded-lg shadow-2xl">
         <h2 className="flex items-center gap-1">
-          ↳ incoming intern @{" "}
-          <img src="hubspot.png" className="w-4 h-4 rounded-lg" alt="hubspot" />
-          <span className="text-hubspot font-bold">hubspot</span> &mdash; summer
-          '25
+          ↳ Turning ideas into{" "}
+          {/*<img src="hubspot.png" className="w-4 h-4 rounded-lg" alt="hubspot" />*/}
+          <span className="text-hubspot font-bold">code and pixels.</span>
         </h2>{" "}
         <h2 className="flex items-center gap-1">
-          ↳ cs & finance @
+          ↳ Electronics student @
           <img
             src="waterloo.png"
             className="w-4 h-4 rounded-lg"
-            alt="uwaterloo"
+            alt="vit"
           />
-          <span className="text-yellow-400 font-bold">uwaterloo</span>&mdash;
+          <span className="text-yellow-400 font-bold">VITC</span>&mdash;
           class of &apos;26
         </h2>{" "}
       </div>

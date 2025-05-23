@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     "Next.js Developer",
     "TypeScript Developer",
     "JavaScript Developer",
-    "University of Waterloo",
+    "Vellore Institute of Technology",
     "Electronics Student",
     "Software Engineering Intern",
     "Tech Portfolio",
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Nabiel – Software Engineer Portfolio",
     description:
-      "Explore projects and professional experience from Nabiel, software engineer and Waterloo student.",
+      "Explore projects and professional experience from Nabiel, software engineer and VIT student.",
     creator: "@nabiel",
   },
   metadataBase: new URL("https://nabiel.vercel.app")
