@@ -95,9 +95,9 @@ const Chatbox = () => {
                   onInit={(typewriter) => {
                     typewriter
                       .typeString(
-                        `↳ in grade 8 i made a popular .io game on modd.io`
+                        `↳ in grade 12 i developed siri for windows.`
                       )
-                      .typeString(`<br>↳ in grade 12 i did 2 internships`)
+                      .typeString(`<br>↳ at college i did 2 internships`)
                       .typeString(`<br>↳ then i went to 5 hackathons`)
                       .typeString(`<br>↳ now i am here`)
                       .start()
@@ -136,19 +136,13 @@ const Chatbox = () => {
                   onInit={(typewriter) => {
                     typewriter
                       .typeString(
-                        '<span class="font-black text-xl text-center py-0.5 rounded-lg">Weehooey</span><span class="ml-2 text-xs font-sans italic rounded-2xl">Oct 2023 - Jan 2024</span><br /><span class="bg-dark font-bold border-1 px-2 text-center py-0.5 rounded-lg">Information Technology Intern</span>'
+                        '<span class="font-black text-xl text-center py-0.5 rounded-lg">SHARP Software Development India </span><span class="ml-2 text-xs font-sans italic rounded-2xl">June 2024 - July 2024</span><br /><span class="bg-dark font-bold border-1 px-2 text-center py-0.5 rounded-lg">Student Intern</span>'
                       )
                       .typeString(
-                        '<br><span class="font-black text-xl text-center py-0.5 rounded-lg">1000 Islands Gan. Chamber</span><span class="ml-2 text-xs font-sans italic rounded-2xl">Jun 2024 – Sep 2024</span><br /><span class="bg-dark font-bold border-1 px-2 text-center py-0.5 rounded-lg">Web/Graphic Intern</span>'
+                        '<br><span class="font-black text-xl text-center py-0.5 rounded-lg">Daira Edtech private limited</span><span class="ml-2 text-xs font-sans italic rounded-2xl">Feb 2024 - Sept 2024</span><br /><span class="bg-dark font-bold border-1 px-2 text-center py-0.5 rounded-lg">Artificial Intelligence Intern</span>'
                       )
                       .typeString(
-                        '<br><span class="font-black text-xl text-center py-0.5 rounded-lg">PetMap</span><span class="ml-2 text-xs font-sans italic rounded-2xl">Dec 2024 – Mar 2025</span><br /><span class="bg-dark font-bold border-1 px-2 text-center py-0.5 rounded-lg">Software Engineer</span>'
-                      )
-                      .typeString(
-                        '<br><span class="font-black text-xl text-center py-0.5 rounded-lg">3Tenets Consulting</span><span class="ml-2 text-xs font-sans italic rounded-2xl">Jan 2025 – Present</span><br /><span class="bg-dark font-bold border-1 px-2 text-center py-0.5 rounded-lg">Full Stack Developer</span>'
-                      )
-                      .typeString(
-                        '<br><span class="font-black text-xl text-center py-0.5 rounded-lg">Bridgewell Financial</span><span class="ml-2 text-xs font-sans italic rounded-2xl">Feb 2025 – Apr 2025</span><br /><span class="bg-dark font-bold border-1 px-2 text-center py-0.5 rounded-lg">Software Engineering Intern</span>'
+                        '<br><span class="font-black text-xl text-center py-0.5 rounded-lg">Enactus</span><span class="ml-2 text-xs font-sans italic rounded-2xl">June 2023 - August 2024</span><br /><span class="bg-dark font-bold border-1 px-2 text-center py-0.5 rounded-lg">Member of Marketing and Sponsorship</span>'
                       )
                       .start()
                       .callFunction(() => {

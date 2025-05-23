@@ -79,14 +79,14 @@ const Head = () => {
             className="hover:border-hubspot border-2 border-accent transition hover:duration-300 ease-in-out  hidden sm:block bg-dark p-3 rounded-lg shadow-2xl"
           >
             <h2 className="flex items-center gap-1">
-              ↳ incoming @{" "}
+              ↳ Turning ideas into{" "}
+              {/*
               <img
                 src="hubspot.png"
                 className="w-4 h-4 rounded-lg"
                 alt="hubspot"
-              />
-              <span className="text-hubspot font-bold">hubspot</span> &mdash;
-              summer '25
+              />*/}
+              <span className="text-hubspot font-bold">code and pixels.</span>
             </h2>{" "}
             <h2 className="flex items-center gap-1">
               ↳ Electronics student @
