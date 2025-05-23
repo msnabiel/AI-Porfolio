@@ -7,11 +7,7 @@ import {
 } from "@google/genai";
 import getSystemPrompt from "./prompt";
 const ai = new GoogleGenAI({
-<<<<<<< HEAD
-  apiKey: "AIzaSyDNsEts94dlqKVDcNFVdLT5XPe8p3uDS1M",
-=======
   apiKey: process.env.GOOGLE_API_KEY!,
->>>>>>> 5a83f9a1 (Bugs zapped & names revamped 🎯)
 });
 
 
